@@ -1,7 +1,7 @@
 
         Gem::Specification.new do |s|
               s.name        = 'kapi'
-              s.version     = 'VERSION'
+              s.version     = '1.1.0'
               s.summary     = "Kapi client for ruby language"
               s.description = "Kapi client for ruby language"
               s.authors     = ["Architecture team"]
